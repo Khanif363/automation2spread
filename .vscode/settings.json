@@ -1,0 +1,9 @@
+{
+  "cline.mcpServers": {
+    "my-db": {
+      "command": "python",
+      "args": ["/path/to/mcp_db_server.py"]  // Dari contoh sebelumnya
+    }
+  },
+  "cline.model": "local-llama"  // Atau "gpt-4o" buat cloud
+}

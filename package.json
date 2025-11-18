@@ -1,0 +1,10 @@
+{
+  "name": "automation2spread",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "script.js",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "googleapis": "^161.0.0"
+  }
+}
